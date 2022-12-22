@@ -1,9 +1,8 @@
-![Header](https://avatars.githubusercontent.com/u/91920371?v=4)
+![Header](https://user-images.githubusercontent.com/91920371/209226454-deed665a-8340-4936-9934-64f62327829e.png)
 
-# Hey, there! 👋
 ___
 
-My name is Andrew Knapick and I'm a software developer and gradute of [Turing School of Software and Desing](https://turing.edu/). I'm a habitual world traveler who loves to see new places any chance I get. I'm excited about creating and working on applications that help connect people around the world and makes their lives easier. 
+My name is Andrew and I'm a software developer and gradute of [Turing School of Software and Design](https://turing.edu/). I'm a habitual world traveler who loves to see new places any chance I get. I'm excited about creating and working on applications that help connect people around the world and makes their lives easier. 
 
 ## Find me on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-knapick/)
@@ -11,8 +10,6 @@ ___
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Universal-Patois&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)[![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/api?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
