@@ -9,7 +9,7 @@ My name is Andrew and I'm a software developer and gradute of [Turing School of 
 ___
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Universal-Patois&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)[![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/api?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Universal-Patois&layout=compact&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)[![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/api?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Universal-Patois's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Universal-Patois&count_private=true&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
